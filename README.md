@@ -15,6 +15,9 @@ npm run build
 npm start
 ```
 
+## Usage
+Go [here](https://github.com/apps/javalint) and enable the bot for your repositories.
+
 ## License
 
 [ISC](LICENSE) © 2019 Lesley Lai <lesleylai@lesleylai.info>
